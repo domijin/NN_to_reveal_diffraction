@@ -71,4 +71,10 @@ $\frac{I(x)}{I(0)}= \left[ \frac{\sin(\frac{\pi b}{\lambda}\frac{x}{D}) }{(\frac
 * There is room for alternative form of diffraction equation, but sampling is very biased and uneven
 * Flat prior, is too big.
 * Gaussian process regression can incooperate with biased sampling, which is more realistic
-* I need to work with TensorFlow
+* I need to work with Neural Networks
+
+
+
+Updated note: [MIT review](https://www.technologyreview.com/s/611798/who-needs-copernicus-if-you-have-machine-learning/) reported a similar study trying to revert the underlining laws of physics using machine learning.
+
+From my gut: the only caveat I see from such approach is that non-linearity has so many forms that the activation function should incorporate that kind of diversity. Otherwise, it is hard to formulate the computed model.
